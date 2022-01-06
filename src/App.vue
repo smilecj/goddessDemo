@@ -16,4 +16,6 @@ export default {};
   color: #f52443;
   text-align: center
 }
+
+
 </style>
